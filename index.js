@@ -9,5 +9,8 @@ item.classList.add('toDoStyle');
 toDoList.appendChild(item);
 inputArea.value = '';
 
+item.addEventListener('click', function() {
+item.classList.add('toDoDone');
+})
 
 })
