@@ -18,7 +18,7 @@ border: none;
 }
 
 .btn {
-    padding: 20px;
+    padding: 17px;
     background-color: #a93ab4;
     border: none;
 }
@@ -27,5 +27,8 @@ body {
     background-image: url(drink.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-
+    min-height: 100vh;
+    background-position: center;
+    background-color: #a93ab4;
 }
+
