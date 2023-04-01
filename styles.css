@@ -12,8 +12,8 @@ font-size: 65px;
 }
 
 .inputArea {
-padding: 15px;
-width: 43%;
+padding: 18px;
+width: 35%;
 border: none;
 }
 
@@ -41,4 +41,10 @@ body {
     color: #4e4d4b;
     font-size: 23px;
     border-bottom: 1px solid #53524f;
+}
+
+.toDoList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
