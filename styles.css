@@ -32,3 +32,13 @@ body {
     background-color: #a93ab4;
 }
 
+.toDoStyle {
+    background-color: #fcb045;
+    list-style-type: none;
+    padding: 15px;
+    width: 50%;
+    text-align: center;
+    color: #4e4d4b;
+    font-size: 23px;
+    border-bottom: 1px solid #53524f;
+}
