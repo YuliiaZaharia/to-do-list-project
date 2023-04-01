@@ -10,3 +10,15 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 43%,
 -webkit-background-clip: text;
 font-size: 65px;
 }
+
+.inputArea {
+padding: 15px;
+width: 43%;
+border: none;
+}
+
+.btn {
+    padding: 20px;
+    background-color: #a93ab4;
+    border: none;
+}
