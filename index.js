@@ -13,4 +13,8 @@ item.addEventListener('click', function() {
 item.classList.add('toDoDone');
 })
 
+item.addEventListener('dblclick', function() {
+toDoList.removeChild(item);
+})
+
 })
