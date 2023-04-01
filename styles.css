@@ -56,3 +56,15 @@ body {
     color: #53524f;
     transition: all 1s ease;
 }
+
+@media all and (max-width: 800px) {
+    h1 {
+        font-size: 30px;
+    }
+}
+
+@media all and (max-width: 500px) {
+    h1 {
+        font-size: 20px;
+    }
+}
