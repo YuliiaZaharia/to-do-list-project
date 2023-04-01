@@ -22,3 +22,10 @@ border: none;
     background-color: #a93ab4;
     border: none;
 }
+
+body {
+    background-image: url(drink.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
